@@ -1,4 +1,4 @@
-# YouGPTube Summarizer Documentation
+# Youtube Summarizer with Claude-2, OpenAI & Whisper
 
 ## Overview
 

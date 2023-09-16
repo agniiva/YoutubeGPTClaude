@@ -1,0 +1,7 @@
+streamlit
+openai
+librosa
+soundfile
+yt-dlp
+python-dotenv
+anthropic
